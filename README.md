@@ -1,2 +1,2 @@
 # Website
- Website on our Solar System( Univesity Assignment)
+ Website on our Solar System(Univesity Assignment)
